@@ -1,6 +1,6 @@
 # Go REST API
 
-Simple REST API project using Golang, Fiber `2.7.1`, and GORM `1.21.6`
+Simple REST API project using Golang, [Fiber](https://github.com/gofiber/fiber) `2.7.1`, and [GORM](https://gorm.io/) `1.21.6`
 
 ## Setup
 
