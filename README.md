@@ -12,7 +12,9 @@ Make sure you have Go installed ([download](https://golang.org/dl/)) and properl
 $ go mod download
 ```
 
-2. Run, the default port is `4321`
+2. Setup the database (Postgres) and change the `dns` value in `models/setup.go` to match the database config
+
+3. Run, the default port is `4321`
 
 ```bash
 $ go run main.go
