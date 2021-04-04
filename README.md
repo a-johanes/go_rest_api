@@ -19,5 +19,5 @@ $ go mod download
 ```bash
 $ go run main.go
 # or
-$ go build && ./rest_api
+$ go build && ./go_rest_api
 ```
